@@ -1,0 +1,5 @@
+{
+  "name": "@luma-sandbox/hello-slow-type",
+  "version": "0.1.0",
+  "exports": "./mod.ts"
+}
